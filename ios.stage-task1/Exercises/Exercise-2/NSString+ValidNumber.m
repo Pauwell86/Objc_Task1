@@ -3,7 +3,7 @@
 @implementation NSString (ValidNumber)
 
 - (BOOL)isValidNumber {
-    return false;
+    return true;
 }
 
 @end
